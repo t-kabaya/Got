@@ -1,0 +1,6 @@
+framework module Got {
+  umbrella header "Got-umbrella.h"
+
+  export *
+  module * { export * }
+}
